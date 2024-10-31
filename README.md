@@ -35,8 +35,36 @@ Codes Executed:
 9.Logarithmic scale
 10.plaotting with Anotations
 
+DATA VISUALIzATION STATISTICAL
+
+Use Case - Used for creating visually appealing, statistically-focused plots with minimal code.
+
+Library Used - Seaborn
+
+Codes Executed:
+1. Bar Plot
+2. Box Plot
+3. Boxen Plot
+4. Cat Plot
+5. Count Plot
+6. FacetGrid
+7. Heatmap Plot
+8. Histogram
+9. Joint Plot
+10. KDE Plot
+11. Line Plot
+12. Pair Plot
+13. Pair + Grid Plot
+14. Point Plot
+15. Regression Plot
+16. Scatter Plot
+17. Strip Plot
+18. Swarm Plot
+19. Violen Plot
+
 
 DEEP LEARNING IMAGE PROCESSING
+
 Use Case - Digitizing and executing images with help vision(deep learning-cnn) frameworks/libraries.
 Libaray Used - OpenCV
 
@@ -69,3 +97,12 @@ Used- OpenCV Codes Executed:
 5.Multiple Video Streaming
 
 SALES DATA ANALYSIS AND VISUALISATION Use Case- Processing,Analysing and Visualizing the Sales data Libraries Used- Pandas,MatPlotLib,Seaborn
+
+
+
+
+
+
+
+
+
