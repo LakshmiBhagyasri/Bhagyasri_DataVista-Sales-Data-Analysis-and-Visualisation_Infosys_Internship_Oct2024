@@ -42,7 +42,7 @@
 - Naive Bayes Algorithm
 - SVM
 
----
+
 
 # **DATA PROCESSING**
 - **Use Case:** Used for manipulating, transforming, and analyzing data.
@@ -72,7 +72,7 @@
 - Logarithmic Scale
 - Plotting with Annotations
 
----
+
 
 # **DATA VISUALIZATION - STATISTICAL**
 - **Use Case:** Used for creating visually appealing, statistically-focused plots with minimal code.
@@ -99,7 +99,7 @@
 - Swarm Plot
 - Violin Plot
 
----
+
 
 # **DEEP LEARNING - IMAGE PROCESSING**
 - **Use Case:** Digitizing and executing images with the help of vision (deep learning - CNN) frameworks/libraries.
@@ -122,7 +122,7 @@
 - Canny Edge Detection
 - Morphological Operation
 
----
+
 
 # **DEEP LEARNING - VIDEO PROCESSING**
 - **Use Case:** Digitizing and executing videos with the help of vision (deep learning - CNN) frameworks/libraries.
@@ -134,6 +134,13 @@
 - Video Saving
 - FPS
 - Multiple Video Streaming
+
+
+
+
+
+
+
 
 
 
