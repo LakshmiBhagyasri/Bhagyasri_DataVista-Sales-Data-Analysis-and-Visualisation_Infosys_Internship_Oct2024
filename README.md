@@ -4,13 +4,13 @@
 - **Use Case:** Analyzing sales data to identify top products, customer preferences, and sales trends, enabling data-driven business strategies.
 - **Libraries Used:** `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
 
----
+
 
 # **SALES DATA ANALYSIS AND VISUALIZATION**
 - **Use Case:** Processing, analyzing, and visualizing the sales data.
 - **Libraries Used:** `Pandas`, `Matplotlib`, `Seaborn`
 
----
+
 
 # **DATA COMPUTATION**
 - **Use Case:** Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields.
@@ -27,7 +27,7 @@
 - Ordinary Differential Equation (ODE) Solvers: Solves differential equations.
 - Special Functions: Includes advanced mathematical functions.
 
----
+
 
 # **DATA OPERATIONS**
 - **Use Case:** Learning how to perform arithmetic & modulus operations. Widely used in scientific computing, supporting arrays and matrices along with a large collection of high-level mathematical functions.
