@@ -54,7 +54,7 @@
 - Updating existing column names
 - Data cleaning
 
----
+
 
 # **DATA VISUALIZATION**
 - **Use Case:** Used for visualizing data for better understanding.
