@@ -2,7 +2,7 @@
 
 ## Dataset: **Books Sales and Ratings**
 - **Use Case:** Analyzing sales data to identify top products, customer preferences, and sales trends, enabling data-driven business strategies.
-- **Libraries Used:** `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
+- **Libraries Used:** `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`
 
 
 
